@@ -1,4 +1,4 @@
-# nhom4_bmtt_totp
+# Bảo mật thông tin - TOTP (Time-based One-time Password)
 
 A new Flutter project.
 
